@@ -1,7 +1,7 @@
 # Integer Linear Optimization
 
 ### Course Project: Ilya Krasnov
-### Course Linear Programming @jce by Dr. Yehuda Hassin
+
 
 #### June 21, 2018
 ---
@@ -76,6 +76,15 @@ f6|21|10|4|8
 f7|13|2|10|4
 **Total**|**47**|**40**|**30**|**19**
 
+
+---
+
+## Performance
+
+* Problem definition: 2.6 ms
+* Solving the problem: 12.4 ms
+
+* Users reported slow performance for large number of constraints: ~ 3 mins for 1500 constraints.
 
 --- 
 
